@@ -1,4 +1,6 @@
 {
+    "name": "Prod Deploy Pipeline",
+    "application": "sampleapp",
     "appConfig": {},
     "description": "This pipeline deploys the sample application in Kubernetes in the most simple way possible, with no checks.\nYou can choose the success rate of the application.",
     "executionEngine": "v2",

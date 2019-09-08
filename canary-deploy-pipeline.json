@@ -1,4 +1,6 @@
 {
+    "name": "Canary Deploy Pipeline",
+    "application": "sampleapp",
     "appConfig": {},
     "description": "This pipeline deploys a canary version of the application, and a baseline (identical to production) version.\nIt compares them, and if the canary is OK, it triggers the production deployment pipeline.",
     "executionEngine": "v2",
