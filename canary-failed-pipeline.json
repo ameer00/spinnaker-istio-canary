@@ -1,4 +1,6 @@
 {
+    "name": "Canary Failed Pipeline",
+    "application": "sampleapp",
     "keepWaitingPipelines": false,
     "lastModifiedBy": "anonymous",
     "limitConcurrent": true,
