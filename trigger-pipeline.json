@@ -1,4 +1,6 @@
 {
+    "name": "Trigger Deploy Pipeline",
+    "application": "sampleapp",
     "keepWaitingPipelines": false,
     "lastModifiedBy": "anonymous",
     "limitConcurrent": true,
